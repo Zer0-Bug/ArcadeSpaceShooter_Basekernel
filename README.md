@@ -13,8 +13,8 @@
   <a href="https://en.wikipedia.org/wiki/VESA_BIOS_Extensions">
     <img src="https://img.shields.io/badge/VESA-Graphics-blue?style=for-the-badge" alt="VESA">
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-darkred?style=for-the-badge" alt="License">
   </a>
 </p>
 
